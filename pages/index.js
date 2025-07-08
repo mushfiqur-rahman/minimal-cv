@@ -97,7 +97,7 @@ export default function Home() {
       </Head>
       <main
         aria-label="resume-content"
-        className="md:w-1/2 mx-auto min-h-screen px-10 py-5 rounded-lg shadow-2xl shadow-slate-200"
+        className="md:w-1/2 mx-auto min-h-screen px-10 py-5 rounded-lg shadow-2xl shadow-amber-500 m-20"
       >
         <Header />
         <Summary />
