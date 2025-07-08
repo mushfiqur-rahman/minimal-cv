@@ -6,7 +6,7 @@ const Footer = () => {
   const date = `${current.getFullYear()}`;
   return (
     <footer className="mt-4 mx-auto justify-center sm:flex-row">
-      <p className="text-center md:text-center">
+      <p className="text-center text-[12px]">
         &copy; Copyright 2022 - {date}. All right reserved by{" "}
         <Link href="https://mushfiq.xyz">MUSHFIQ</Link>
       </p>

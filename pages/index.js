@@ -6,6 +6,7 @@ import Education from "@/components/Education";
 import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
 import Certifications from "@/components/Certifications";
+import Testimonial from "@/components/Testimonial";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -97,7 +98,7 @@ export default function Home() {
       </Head>
       <main
         aria-label="resume-content"
-        className="md:w-1/2 mx-auto min-h-screen px-10 py-5 rounded-lg shadow-2xl shadow-amber-500 m-20"
+        className="md:w-1/2 mx-auto min-h-screen px-10 py-5 rounded-lg shadow-2xl dark:shadow-amber-500 m-20"
       >
         <Header />
         <Summary />
@@ -106,6 +107,7 @@ export default function Home() {
         <Skills />
         <Projects />
         <Certifications />
+        <Testimonial />
         <Footer />
       </main>
     </>
