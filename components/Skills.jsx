@@ -4,15 +4,15 @@ const Skills = () => {
   return (
     <>
       <div className="py-4">
-        <h2 className="text-xl font-bold">Skills</h2>
+        <h2 className="text-xl font-bold py-2">Skills</h2>
         <div>
           <ul
-            class="flex list-none flex-wrap gap-1 p-0"
+            className="flex list-none flex-wrap gap-1 p-0"
             aria-label="List of skills"
           >
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Google Worksapce Administration"
               >
                 Google Worksapce Administration
@@ -20,7 +20,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Microsoft 365 Administration"
               >
                 Microsoft 365 Administration
@@ -28,7 +28,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: DNS Configuration"
               >
                 DNS Configuration
@@ -36,7 +36,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Email Configuration Expert"
               >
                 Email Configuration Expert
@@ -44,7 +44,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Email Migration Expert"
               >
                 Email Migration Expert
@@ -52,7 +52,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Email Deliverability"
               >
                 Email Deliverability
@@ -60,7 +60,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Django"
               >
                 Django
@@ -68,7 +68,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: API Development"
               >
                 API Development
@@ -76,7 +76,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Payment Integration"
               >
                 Payment Integration
@@ -84,7 +84,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: MySQL"
               >
                 MySQL
@@ -92,7 +92,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: React/Next.js"
               >
                 React/Next.js
@@ -100,7 +100,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: JavaScript"
               >
                 JavaScript
@@ -108,7 +108,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Tailwind CSS"
               >
                 Tailwind CSS
@@ -116,7 +116,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: WordPress"
               >
                 WordPress
@@ -124,7 +124,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: squarespace"
               >
                 Squarespace
@@ -132,7 +132,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Software Testing"
               >
                 Software Testing
@@ -140,7 +140,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Wix"
               >
                 Wix
@@ -148,7 +148,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Shipify Theme Development"
               >
                 Shipify Theme Development
@@ -156,7 +156,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: GitHub CI/CD pipelines"
               >
                 GitHub CI/CD pipelines
@@ -164,7 +164,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: AWS EC2"
               >
                 AWS EC2
@@ -172,7 +172,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: Vercel"
               >
                 Vercel
@@ -180,7 +180,7 @@ const Skills = () => {
             </li>
             <li>
               <div
-                class="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
+                className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
                 aria-label="Skill: CPanel"
               >
                 CPanel
