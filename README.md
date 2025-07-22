@@ -11,13 +11,18 @@
 A sleek, minimal, and fully responsive resume website built with **Next.js**, **Tailwind CSS**, and **JavaScript**.  
 Perfect for showcasing your professional profile, skills, and career highlights.
 
-![Minimal CV Screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
+## Dark Mode
+
+<img width="1920" height="2027" alt="minimal-cv" src="https://github.com/user-attachments/assets/a4cf5819-3fdd-4dfe-b01f-7b6b76644de0" />
+
+## Light Mode
+<img width="1920" height="2027" alt="screencapture-minimal-cv-theta-vercel-app-2025-07-22-09_12_08" src="https://github.com/user-attachments/assets/2cc08ef4-aa3f-4f0b-a8a6-42edae507ebf" />
 
 ---
 
 ## ✨ Features
 
-✅ **Modern Tech Stack** — Next.js, TypeScript, Tailwind CSS  
+✅ **Modern Tech Stack** — Next.js, JavaScript, Tailwind CSS  
 ✅ **Minimal Design** — Clean, distraction-free layout  
 ✅ **Responsive** — Looks great on all devices  
 ✅ **Easy to Customize** — Update your details in one place  
