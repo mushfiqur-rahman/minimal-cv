@@ -149,9 +149,9 @@ const Skills = () => {
             <li>
               <div
                 className="inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-semibold font-mono"
-                aria-label="Skill: Shipify Theme Development"
+                aria-label="Skill: Shopify Theme Development"
               >
-                Shipify Theme Development
+                Shopify Theme Development
               </div>
             </li>
             <li>
