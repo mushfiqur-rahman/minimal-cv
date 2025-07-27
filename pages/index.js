@@ -5,8 +5,6 @@ import WorkExperience from "@/components/WorkExperience";
 import Education from "@/components/Education";
 import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
-import Certifications from "@/components/Certifications";
-import Testimonial from "@/components/Testimonial";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -82,10 +80,7 @@ export default function Home() {
           name="keywords"
           content="Mushfiqur Rahman, experienced freelancer, IT Expert,Remote Services,Remote IT Service, IT support engineer, Start up   Next js  python django  Google Workspace administration, Microsoft Office 365 administration, email deliverability, WordPress website bug-free transfer, DNS management (GoDaddy, Cloudflare, Namecheap), website & DNS issue fixes (CNAME, A records, IP, redirects), spam or junk issue fix, cold mail setup, email migration, and IT consultancy"
         />
-        <meta
-          name="impact-site-verification"
-          value="0074120f-c25b-4fa8-8c30-58ad69f0ad07"
-        />
+
         <link href="https://mushfiq.xyz" rel="canonical" />
         <meta content="https://mushfiq.xyz" property="og:url" />
         <meta
@@ -106,8 +101,6 @@ export default function Home() {
         <Education />
         <Skills />
         <Projects />
-        <Certifications />
-        <Testimonial />
         <Footer />
       </main>
     </>
