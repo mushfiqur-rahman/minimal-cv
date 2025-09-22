@@ -12,7 +12,8 @@ A sleek, minimal, and fully responsive resume website built with **Next.js**, **
 Perfect for showcasing your professional profile, skills, and career highlights.
 
 ## webview
-<img width="1920" height="2157" alt="minimal-cv" src="https://github.com/user-attachments/assets/1990e3b2-f797-4256-88c5-8e87e7494dfa" />
+<img width="1920" height="2157" alt="minimal-cv" src="https://github.com/user-attachments/assets/04508810-925f-4749-8d9c-046100ef90cc" />
+
 
 ---
 
